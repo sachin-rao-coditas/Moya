@@ -11,24 +11,6 @@
         }
       },
       {
-        "package": "CwlCatchException",
-        "repositoryURL": "https://github.com/mattgallagher/CwlCatchException.git",
-        "state": {
-          "branch": null,
-          "revision": "7cd2f8cacc4d22f21bc0b2309c3b18acf7957b66",
-          "version": "1.2.0"
-        }
-      },
-      {
-        "package": "CwlPreconditionTesting",
-        "repositoryURL": "https://github.com/mattgallagher/CwlPreconditionTesting.git",
-        "state": {
-          "branch": null,
-          "revision": "c228db5d2ad1b01ebc84435e823e6cca4e3db98b",
-          "version": "1.2.0"
-        }
-      },
-      {
         "package": "Logger",
         "repositoryURL": "https://github.com/shibapm/Logger",
         "state": {
@@ -38,48 +20,21 @@
         }
       },
       {
-        "package": "Nimble",
-        "repositoryURL": "https://github.com/Quick/Nimble.git",
-        "state": {
-          "branch": null,
-          "revision": "b02b00b30b6353632aa4a5fb6124f8147f7140c0",
-          "version": "8.0.5"
-        }
-      },
-      {
-        "package": "OHHTTPStubs",
-        "repositoryURL": "https://github.com/AliSoftware/OHHTTPStubs.git",
-        "state": {
-          "branch": null,
-          "revision": "e92b5a5746ef16add2a1424f1fc19529d9a75cde",
-          "version": "9.0.0"
-        }
-      },
-      {
         "package": "PackageConfig",
         "repositoryURL": "https://github.com/shibapm/PackageConfig.git",
         "state": {
           "branch": null,
-          "revision": "fd0829aac9851434b3d2db0890e27bc489fc973a",
-          "version": "0.12.2"
-        }
-      },
-      {
-        "package": "Quick",
-        "repositoryURL": "https://github.com/Quick/Quick.git",
-        "state": {
-          "branch": null,
-          "revision": "33682c2f6230c60614861dfc61df267e11a1602f",
-          "version": "2.2.0"
+          "revision": "5df1709f87e40e27b3fbe5022b826aff30d652d9",
+          "version": "1.1.0"
         }
       },
       {
         "package": "ReactiveSwift",
-        "repositoryURL": "https://github.com/Moya/ReactiveSwift.git",
+        "repositoryURL": "https://github.com/ReactiveCocoa/ReactiveSwift.git",
         "state": {
           "branch": null,
-          "revision": "f195d82bb30e412e70446e2b4a77e1b514099e88",
-          "version": "6.1.0"
+          "revision": "c43bae3dac73fdd3cb906bd5a1914686ca71ed3c",
+          "version": "6.7.0"
         }
       },
       {
@@ -87,8 +42,8 @@
         "repositoryURL": "https://github.com/shibapm/Rocket",
         "state": {
           "branch": null,
-          "revision": "61166b38e229e09b53becef2e495eb99f437438a",
-          "version": "1.0.1"
+          "revision": "9880a5beb7fcb9e61ddd5764edc1700b8c418deb",
+          "version": "1.2.1"
         }
       },
       {
@@ -96,8 +51,8 @@
         "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
         "state": {
           "branch": null,
-          "revision": "b3e888b4972d9bc76495dd74d30a8c7fad4b9395",
-          "version": "5.0.1"
+          "revision": "7c17a6ccca06b5c107cfa4284e634562ddaf5951",
+          "version": "6.2.0"
         }
       },
       {
@@ -105,8 +60,8 @@
         "repositoryURL": "https://github.com/kareman/SwiftShell",
         "state": {
           "branch": null,
-          "revision": "fb7fc2c9ad8811caf324431a508fb79e3fb74f99",
-          "version": "5.0.1"
+          "revision": "a6014fe94c3dbff0ad500e8da4f251a5d336530b",
+          "version": "5.1.0-beta.1"
         }
       },
       {
@@ -114,8 +69,8 @@
         "repositoryURL": "https://github.com/jpsim/Yams",
         "state": {
           "branch": null,
-          "revision": "c947a306d2e80ecb2c0859047b35c73b8e1ca27f",
-          "version": "2.0.0"
+          "revision": "9ff1cc9327586db4e0c8f46f064b6a82ec1566fa",
+          "version": "4.0.6"
         }
       }
     ]
